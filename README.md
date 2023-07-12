@@ -9,10 +9,15 @@
 Frontend: 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vite,react,sass" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,vite,react,styledcomponents" />
   </a>
 </p>
-
+Backend:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,sql,mongodb,handlebars,sass" />
+  </a>
+</p>
 
 
 - 🌱 I’m currently learning ... Typescript and Redux!
