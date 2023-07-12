@@ -19,6 +19,13 @@ Backend:
   </a>
 </p>
 
+Extra softwares!
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+  </a>
+</p>
+
 I'm a full stack developer but I prefer working with frontend.
 
 - 🌱 I’m currently learning ... Typescript and Redux!
@@ -26,3 +33,4 @@ I'm a full stack developer but I prefer working with frontend.
   <p align='center' >
     <img height='50%' width='auto' src='https://github-readme-stats.vercel.app/api/top-langs/?username=martinvidela&hide_progress=true&theme=gruvbox'>
   </p>
+
