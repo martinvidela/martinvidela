@@ -2,18 +2,17 @@
 <h1 align="center"> Hello, there! 👋 </h1>
 </div>
 
-
-<!--
-**martinvidela/martinvidela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> Hi! My name's Martin, I'm 21yo programmer. I enjoy exploring new technologies and I'm always trying to improve myself and my career. </p>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
+- 🌱 I’m currently learning ... Typescript and Redux!
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  <p align='center' >
+    <img height='50%' width='auto' src='https://github-readme-stats.vercel.app/api/top-langs/?username=martinvidela&size_weight=0.5&count_weight=0.5'>
+  </p>
