@@ -15,7 +15,7 @@ Frontend:
 Backend:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,sql,mongodb,handlebars,sass" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,nestjs" />
   </a>
 </p>
 
