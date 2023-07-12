@@ -13,5 +13,6 @@
 -->
 
   <p align='center' >
-    <img height='50%' width='auto' src='https://github-readme-stats.vercel.app/api?username=martinvidela'>
+    <img height='50%' width='auto' src='https://github-readme-stats.vercel.app/api/top-langs/?username=martinvidela&hide_progress=true'>
   </p>
+https://github-readme-stats.vercel.app/api/top-langs/?username=martinvidela&hide_progress=true
