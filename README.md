@@ -6,6 +6,15 @@
 
 <h2 align='center' >My skills :hocho: </h2>
 
+Frontend: 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vite,react,sass" />
+  </a>
+</p>
+
+
+
 - 🌱 I’m currently learning ... Typescript and Redux!
 
   <p align='center' >
