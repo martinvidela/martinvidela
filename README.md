@@ -34,3 +34,6 @@ I'm a full stack developer but I prefer working with frontend.
     <img height='50%' width='auto' src='https://github-readme-stats.vercel.app/api/top-langs/?username=martinvidela&hide_progress=true&theme=gruvbox'>
   </p>
 
+  -:envelope: Contact!
+  <p>martinvidelacontacto@gmail.com</p>
+  
