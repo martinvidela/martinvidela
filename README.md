@@ -13,6 +13,5 @@
 -->
 
   <p align='center' >
-    <img height='50%' width='auto' src='https://github-readme-stats.vercel.app/api/top-langs/?username=martinvidela&hide_progress=true'>
+    <img height='50%' width='auto' src='https://github-readme-stats.vercel.app/api/top-langs/?username=martinvidela&hide_progress=true&theme=gruvbox'>
   </p>
-https://github-readme-stats.vercel.app/api/top-langs/?username=martinvidela&hide_progress=true
