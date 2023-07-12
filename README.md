@@ -4,6 +4,8 @@
 
 <p> Hi! My name's Martin, I'm 21yo programmer. I enjoy exploring new technologies and I'm always trying to improve myself and my career. </p>
 
+<h2>My skills :hocho: </h2>
+
 - 🌱 I’m currently learning ... Typescript and Redux!
 
   <p align='center' >
