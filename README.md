@@ -13,5 +13,5 @@
 -->
 
   <p align='center' >
-    <img height='50%' width='auto' src='https://github-readme-stats.vercel.app/api?username=martinvidela)](https://github.com/martinvidela/github-readme-stats'>
+    <img height='50%' width='auto' src='https://github-readme-stats.vercel.app/api?username=martinvidela>
   </p>
