@@ -19,6 +19,7 @@ Backend:
   </a>
 </p>
 
+I'm a full stack developer but I prefer working with frontend.
 
 - 🌱 I’m currently learning ... Typescript and Redux!
 
