@@ -28,7 +28,7 @@ Extra softwares!
 
 <hr>
 
-I'm a full stack developer but I prefer working with frontend.
+I'm a full stack developer but I prefer frontend.
 
 - 🌱 I’m currently learning ... Typescript and Redux!
 
