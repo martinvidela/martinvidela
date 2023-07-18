@@ -30,7 +30,7 @@ Extra softwares!
 
 I'm a full stack developer but I prefer frontend.
 
-- 🌱 I’m currently learning ... Typescript and Redux!
+- 🌱 I’m currently learning ... Typescript and Redux.
 
   <p align='center' >
     <img height='50%' width='auto' src='https://github-readme-stats.vercel.app/api/top-langs/?username=martinvidela&hide_progress=true&theme=gruvbox'>
