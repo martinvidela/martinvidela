@@ -9,7 +9,7 @@
 Frontend:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,vite,react,styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,vite,react,jest, styledcomponents" />
   </a>
 </p>
 Backend:
