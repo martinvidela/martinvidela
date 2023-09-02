@@ -47,7 +47,7 @@ I'm a full stack developer but I prefer frontend.
     <img height='50%' width='auto' src='https://github-readme-stats.vercel.app/api/top-langs/?username=martinvidela&hide_progress=true&theme=gruvbox'>
   </p>
 
-- :envelope: Contact
-<p>martinvidelacontacto@gmail.com</p>
+
+<h3 align="center"> Email: martinvidelacontacto@gmail.com</h3>
   
-<h3 align="center"> Portfolio: https://martinvidela-portfolio.vercel.app/👋</h3>
+<h3 align="center"> Portfolio: https://martinvidela-portfolio.vercel.app</h3>
