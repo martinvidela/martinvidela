@@ -37,7 +37,7 @@ Extra softwares!
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 <hr>
 
-I'm a full stack developer but I prefer frontend.
+
 
 - 🌱 I’m currently working at Ultracore, but I am open to other job offers.
 
