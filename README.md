@@ -39,7 +39,7 @@ Extra softwares!
 
 I'm a full stack developer but I prefer frontend.
 
-- 🌱 I’m currently working at Ultracore.
+- 🌱 I’m currently working at Ultracore, but I am open to other job offers.
 
   <p align='center' >
     <img height='50%' width='auto' src='https://github-readme-stats.vercel.app/api/top-langs/?username=martinvidela&hide_progress=true&theme=gruvbox'>
