@@ -41,6 +41,7 @@ Extra softwares!
 
 
 - 🌱 I’m currently working at Ultracore, but I am open to other job offers.
+- Currently working in BitBucket.
 
   <p align='center' >
     <img height='50%' width='auto' src='https://github-readme-stats.vercel.app/api/top-langs/?username=martinvidela&hide_progress=true&theme=gruvbox'>
