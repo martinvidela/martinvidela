@@ -40,7 +40,6 @@ Extra softwares!
 
 
 
-- 🌱 I’m currently working at Ultracore, but I am open to other job offers.
 - Currently working in BitBucket.
 
   <p align='center' >
