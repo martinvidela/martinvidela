@@ -40,7 +40,6 @@ Extra softwares!
 <hr>
 
 
-
 - Currently working in BitBucket.
 
   <p align='center' >
