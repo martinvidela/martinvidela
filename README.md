@@ -39,7 +39,7 @@ Extra softwares!
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 <hr>
 
-
+- English Level: B2
 - Currently working in BitBucket.
 
   <p align='center' >
